@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3485
     wikipedia: http://en.wikipedia.org/wiki/James_Richardson_%28explorer_of_the_Sahara%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18544#Narrative-of-a-Mission-to-Central-Africa-Performed-in-the-Years-1850-51-Volume-2Under-the-Ord_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2006-06-09'
 gutenberg_type: Text
